@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: Verdana;
+}
+
+#title , #title-caption{
+    margin: auto;
+    text-align: center;
+}
+
+#image{
+    display: block;
+    max-width:100%;
+    width:55vw;
+    margin: auto auto 8px auto;
+
+
+}
+figure{
+    display: block;
+    margin: 15px 15px auto 15px ;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 18px;
+
+}
+#img-caption{
+    display: block;
+    text-align: center;
+    margin:auto;
+}
+
+main{
+    margin: 15px;
+    background-color: #a0a0a0;
+}
+
+body{
+    margin: 5px;
+}
+#bold{
+    font-weight: 600;
+}

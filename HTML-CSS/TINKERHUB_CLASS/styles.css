@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.navbar-menu ul {
+    align-items: center;
+    display:flex;
+    list-style:none;
+    justify-content: space-evenly;
+}
+.navbar-menu ul li{
+    margin: 20px;
+}  
+.box{   
+    margin-right: auto;
+    padding: 5px 15px;
+    border: 6px solid red;
+}
+
+
+
+.bt1{
+    margin:10px 10px 10px 10px;
+}
+ 
+
