@@ -1,2 +1,4 @@
-# test2
-this is a file is for html learning
+# ALL MY STUDIES AND RELATED FILES
+### Currently topics in this repo
+* HTML
+* CSS
